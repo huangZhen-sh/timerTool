@@ -1,6 +1,6 @@
 <h3>简介</h3>
 
-基于go的定时器，实现了一个类似js的setTimeout、setInterval函数功能
+基于go的定时器，实现类似js的setTimeout、setInterval函数功能
 
 <h3>安装</h3>
 
